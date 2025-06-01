@@ -118,7 +118,7 @@ function Footer() {
               services, please create a ticket here.
             </p>
 
-            <a href="">NSE</a><a href="">BSE</a><a href="">Videos</a><a href="">Videos</a>
+            <a href="">NSE</a><a href="">BSE</a><a href="">Terms & Conditions</a><a href="">Policies & Procedures</a><a href="">Privacy Policy</a><a href="">Disclosures</a>
           </div>
         </div>
       </div>
